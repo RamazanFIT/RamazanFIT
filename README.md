@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=student of Kazakh-British + Technical + University;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=252EF7&width=435&lines=Student+of+Kazakh-British+Technical+University)](https://git.io/typing-svg)
 <img src="https://advice.j2c.com/wp-content/uploads/sites/13/ezgif.com-optimize-9-2.gif" width="512px"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=student of Kazakh-British + Technical + University;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramazan05_century/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-syrlybay-58123b271/) 
