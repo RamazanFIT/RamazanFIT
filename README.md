@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=252EF7&width=435&lines=Student+of+Kazakh-British+Technical+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=252EF7&width=600&lines=Student+of+Kazakh-British+Technical+University)](https://git.io/typing-svg)
 
 
 <img src="https://advice.j2c.com/wp-content/uploads/sites/13/ezgif.com-optimize-9-2.gif" width="400px"/>
